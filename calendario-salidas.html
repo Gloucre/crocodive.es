@@ -78,37 +78,45 @@
         </div>
     </header>
 
-    <main>
-        <section class="sec wh">
-            <div class="w">
-                <h2>Próximas salidas</h2>
-                <div class="bar"></div>
-                <p class="lead">Elige tu inmersión y reserva por WhatsApp.</p>
-                <div style="margin-top:2.5rem;text-align:left">
-                    <div class="tw">
-                        <table>
-                            <thead>
-                                <tr>
-                                    <th>Fecha</th>
-                                    <th>Actividad</th>
-                                    <th>Salida</th>
-                                    <th>Modalidad</th>
-                                    <th>Nivel</th>
-                                    <th></th>
-                                </tr>
-                            </thead>
-                            <tbody id="tabla-salidas">
-                                <tr>
-                                    <td colspan="6" class="ctr">Cargando próximas salidas...</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <p class="ctr" style="margin-top:1.5rem">¿Salida a medida para tu grupo? Escríbenos y la organizamos.</p>
-                </div>
-            </div>
-        </section>
+   <main>
+  <section class="sec wh">
+    <div class="w">
+      <h2>Próximas salidas</h2>
+      <div class="bar"></div>
+      <p class="lead">Elige tu inmersión y reserva por WhatsApp.</p>
+      
+      <div style="margin-top:2.5rem;text-align:left">
+        
+        <!-- Aviso de rotación exclusivo para móviles en vertical -->
+        <div class="rotate-notice">
+          <div class="phone-anim"></div>
+          <span>Gira tu móvil horizontalmente para ver la tabla completa</span>
+        </div>
 
+        <div class="tw">
+          <table>
+            <thead>
+              <tr>
+                <th>Fecha</th>
+                <th>Actividad</th>
+                <th>Salida</th>
+                <th>Modalidad</th>
+                <th>Nivel</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody id="tabla-salidas">
+              <tr>
+                <td colspan="6" class="ctr">Cargando próximas salidas...</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="ctr" style="margin-top:1.5rem">¿Salida a medida para tu grupo? Escríbenos y la organizamos.</p>
+      </div>
+    </div>
+  </section>
+</main>
         <section class="sec dk">
             <div class="w ctr">
                 <h2>¿Listo para sumergirte?</h2>
