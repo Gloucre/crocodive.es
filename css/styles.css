@@ -287,7 +287,6 @@ nav.top .w {
   border-radius: 1px;
 }
 
-/* Se muestra solo en móviles en posición vertical */
 @media (max-width: 768px) and (orientation: portrait) {
   .rotate-notice {
     display: flex;
@@ -708,20 +707,25 @@ details p {
 .lg {
   display: grid;
   gap: 2rem;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
   align-items: center;
   justify-items: center;
 }
 
 .lg div {
-  height: 90px;
+  height: 80px;
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 0.5rem;
-  border: none;
-  background: transparent;
+}
+
+.lg a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
 }
 
 .lg img {
@@ -736,6 +740,17 @@ details p {
 
 .lg a:hover img {
   transform: scale(1.05);
+}
+
+@media (max-width: 640px) {
+  .lg {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+  
+  .lg div {
+    height: 55px;
+  }
 }
 
 .map {
