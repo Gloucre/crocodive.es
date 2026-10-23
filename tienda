@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Tienda y Merchandising | Crocodive Alicante</title>
+    <meta name="description" content="Merchandising y equipamiento oficial del Club Deportivo Buceo Crocodive Alicante. Camisetas, sudaderas, gorras y accesorios.">
+    <link rel="canonical" href="https://crocodive.es/tienda.html">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="es_ES">
+    <meta property="og:site_name" content="Crocodive">
+    <meta property="og:title" content="Tienda y Merchandising | Crocodive Alicante">
+    <meta property="og:description" content="Merchandising y equipamiento oficial del Club Deportivo Buceo Crocodive Alicante. Camisetas, sudaderas, gorras y accesorios.">
+    <meta property="og:url" content="https://crocodive.es/tienda.html">
+    <meta property="og:image" content="https://crocodive.es/img/og-image.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="icon" type="image/png" href="img/favicon-192.png">
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700;800&family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Inicio",
+                "item": "https://crocodive.es/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Tienda",
+                "item": "https://crocodive.es/tienda.html"
+            }
+        ]
+    }
+    </script>
+</head>
+<body>
+    <a class="wa" href="https://wa.me/34643194499?text=Hola,%20quiero%20información%20de%20Crocodive" target="_blank" rel="noopener">WhatsApp</a>
+
+    <nav class="top" aria-label="Principal">
+        <div class="w">
+            <a class="logo" href="index.html" aria-label="Crocodive, inicio">
+                <img src="img/logo.png" alt="Crocodive, club de buceo en Alicante" width="65" height="52">
+            </a>
+
+            <div class="links" id="m">
+                <a href="index.html">Inicio</a>
+                <a href="bautismo-buceo-alicante.html">Bautismo</a>
+                <a href="cursos-buceo-alicante.html">Cursos</a>
+                <a href="calendario-salidas.html">Calendario</a>
+                <a href="tienda.html" aria-current="page">Tienda</a>
+                <a href="quienes-somos.html">El club</a>
+                <a href="noticias.html">Noticias</a>
+                <a href="contacto.html">Contacto</a>
+            </div>
+
+            <a class="btn s cta-n" href="hazte-socio.html">Hazte socio</a>
+
+            <button class="tg" aria-expanded="false" aria-controls="m" aria-label="Abrir menú">&#9776;</button>
+        </div>
+    </nav>
+
+    <header class="ph">
+        <div class="w">
+            <div class="cr"><a href="index.html">Inicio</a> / Tienda y Merchandising</div>
+            <h1>Tienda del Club</h1>
+            <p>Ropa y accesorios oficiales de Crocodive. Recogida en el club o envío a domicilio.</p>
+        </div>
+    </header>
+
+    <main>
+        <section class="sec wh">
+            <div class="w">
+                <h2>Colección Oficial</h2>
+                <div class="bar"></div>
+                <p class="lead">Equipamiento y prendas diseñadas para buceadores. Los socios del club cuentan con descuento en todas sus compras.</p>
+                
+                <div style="margin-top:2.5rem;text-align:left">
+                    <div class="g3">
+                        
+                        <!-- Producto 1 -->
+                        <article class="card">
+                            <div class="ci">
+                                <img src="img/tienda-camiseta.webp" alt="Camiseta Técnica Crocodive" loading="lazy" width="800" height="560">
+                                <span class="badge">Socio -10%</span>
+                            </div>
+                            <div class="cb">
+                                <h3>Camiseta Crocodive Crew</h3>
+                                <div class="price">20 €</div>
+                                <p>Algodón orgánico de gramaje alto (180g) con serigrafía técnica en pecho y espalda.</p>
+                                <ul>
+                                    <li>Tallas: S, M, L, XL, XXL</li>
+                                    <li>Colores: Negro Navy / Azul Marino</li>
+                                    <li>Corte deportivo de alta durabilidad</li>
+                                </ul>
+                                <a class="btn" href="https://wa.me/34643194499?text=Hola,%20quiero%20pedir%20la%20Camiseta%20Crocodive%20Crew">Pedir por WhatsApp</a>
+                            </div>
+                        </article>
+
+                        <!-- Producto 2 -->
+                        <article class="card feat">
+                            <div class="ci">
+                                <img src="img/tienda-sudadera.webp" alt="Sudadera Técnica Crocodive" loading="lazy" width="800" height="560">
+                                <span class="badge">Más Popular</span>
+                            </div>
+                            <div class="cb">
+                                <h3>Sudadera Técnica Subsea</h3>
+                                <div class="price">45 €</div>
+                                <p>Sudadera pesada con capucha y felpa perchada interior. Ideal para abrigarse al salir del agua.</p>
+                                <ul>
+                                    <li>Tejido térmico antipilling</li>
+                                    <li>Bolsillo canguro con cierre seguro</li>
+                                    <li>Bordado técnico en manga y pecho</li>
+                                </ul>
+                                <a class="btn" href="https://wa.me/34643194499?text=Hola,%20quiero%20pedir%20la%20Sudadera%20Técnica%20Subsea">Pedir por WhatsApp</a>
+                            </div>
+                        </article>
+
+                        <!-- Producto 3 -->
+                        <article class="card">
+                            <div class="ci">
+                                <img src="img/tienda-gorra.webp" alt="Gorra Crocodive" loading="lazy" width="800" height="560">
+                                <span class="badge">Accesorios</span>
+                            </div>
+                            <div class="cb">
+                                <h3>Gorra Snapback Crocodive</h3>
+                                <div class="price">18 €</div>
+                                <p>Gorra técnica de 5 paneles con parche bordado de alta densidad y visera plana estructurada.</p>
+                                <ul>
+                                    <li>Cierre ajustable trasero</li>
+                                    <li>Rejilla transpirable trasera</li>
+                                    <li>Resistente a la salinidad</li>
+                                </ul>
+                                <a class="btn o" href="https://wa.me/34643194499?text=Hola,%20quiero%20pedir%20la%20Gorra%20Snapback">Pedir por WhatsApp</a>
+                            </div>
+                        </article>
+
+                        <!-- Producto 4 -->
+                        <article class="card">
+                            <div class="ci">
+                                <img src="img/tienda-toalla.webp" alt="Toalla Microfibra Crocodive" loading="lazy" width="800" height="560">
+                                <span class="badge">Equipo</span>
+                            </div>
+                            <div class="cb">
+                                <h3>Toalla Poncho Microfibra</h3>
+                                <div class="price">28 €</div>
+                                <p>Poncho de secado ultra rápido para cambiarte cómodamente en barco o en la playa tras la inmersión.</p>
+                                <ul>
+                                    <li>Microfibra compacta súper absorbente</li>
+                                    <li>Incluye capucha y funda de transporte</li>
+                                    <li>Talla única para adultos</li>
+                                </ul>
+                                <a class="btn o" href="https://wa.me/34643194499?text=Hola,%20quiero%20pedir%20el%20Poncho%20Toalla">Pedir por WhatsApp</a>
+                            </div>
+                        </article>
+
+                        <!-- Producto 5 -->
+                        <article class="card">
+                            <div class="ci">
+                                <img src="img/tienda-botella.webp" alt="Botella Térmica Crocodive" loading="lazy" width="800" height="560">
+                                <span class="badge">Eco</span>
+                            </div>
+                            <div class="cb">
+                                <h3>Botella Térmica Inox 750ml</h3>
+                                <div class="price">22 €</div>
+                                <p>Aislamiento al vacío de doble pared. Mantiene bebidas frías durante 24h y calientes durante 12h.</p>
+                                <ul>
+                                    <li>Acero inoxidable 18/8 libre de BPA</li>
+                                    <li>Tapón hermético a prueba de fugas</li>
+                                    <li>Acabado rugoso antideslizante</li>
+                                </ul>
+                                <a class="btn o" href="https://wa.me/34643194499?text=Hola,%20quiero%20pedir%20la%20Botella%20Térmica">Pedir por WhatsApp</a>
+                            </div>
+                        </article>
+
+                        <!-- Producto 6 -->
+                        <article class="card">
+                            <div class="ci">
+                                <img src="img/tienda-pack-stickers.webp" alt="Pack Pegatinas Crocodive" loading="lazy" width="800" height="560">
+                                <span class="badge">Merch</span>
+                            </div>
+                            <div class="cb">
+                                <h3>Pack Stickers Vinilo</h3>
+                                <div class="price">6 €</div>
+                                <p>Set de 5 pegatinas vinílicas resistentes al agua y la radiación UV. Ideales para botellas, cajas y equipo.</p>
+                                <ul>
+                                    <li>Vinilo ultra resistente para agua salada</li>
+                                    <li>Diseños variados del club</li>
+                                    <li>Corte con forma personalizada</li>
+                                </ul>
+                                <a class="btn o" href="https://wa.me/34643194499?text=Hola,%20quiero%20pedir%20el%20Pack%20de%20Stickers">Pedir por WhatsApp</a>
+                            </div>
+                        </article>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="sec dk">
+            <div class="w ctr">
+                <h2>¿Tienes dudas con la talla o el envío?</h2>
+                <div class="bar"></div>
+                <p class="lead">Puedes probarte las prendas directamente en el club durante los días de salida o solicitar envío por correo.</p>
+                <div style="margin-top:2.5rem;text-align:left">
+                    <div class="acts">
+                        <a class="btn g" href="https://wa.me/34643194499?text=Hola,%20tengo%20una%20consulta%20sobre%20la%20tienda">Consultar por WhatsApp</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="w">
+            <div class="fg">
+                <div>
+                    <h4>Crocodive</h4>
+                    <p>Club de buceo recreativo en Alicante. Bajo el agua, somos equipo.</p>
+                </div>
+                <div>
+                    <h4>Contacto</h4>
+                    <ul>
+                        <li>Alicante</li>
+                        <li><a href="https://wa.me/34643194499">WhatsApp +34 643 19 44 99</a></li>
+                        <li><a href="https://www.instagram.com/crocodive/" rel="noopener">Instagram @crocodive</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>Web</h4>
+                    <ul>
+                        <li><a href="bautismo-buceo-alicante.html">Bautismo de buceo</a></li>
+                        <li><a href="cursos-buceo-alicante.html">Cursos FEDAS/CMAS</a></li>
+                        <li><a href="tienda.html">Tienda del club</a></li>
+                        <li><a href="hazte-socio.html">Hazte socio</a></li>
+                        <li><a href="legal.html">Aviso legal y privacidad</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="fb">
+                <span>© <span id="y">2026</span> Crocodive · Alicante · FEDAS/CMAS</span>
+                <span>crocodive.es</span>
+            </div>
+        </div>
+    </footer>
+    <script src="js/main.js" defer></script>
+</body>
+</html>
