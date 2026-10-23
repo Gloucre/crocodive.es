@@ -287,7 +287,8 @@ nav.top .w {
   border-radius: 1px;
 }
 
-@media (max-width: 768px) and (orientation: portrait) {
+/* Se activa en cualquier dispositivo por debajo de 980px */
+@media (max-width: 980px) {
   .rotate-notice {
     display: flex;
   }
